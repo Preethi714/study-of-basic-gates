@@ -65,7 +65,7 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-
+```
 module exp1(a, b, c);
     input a;
     input b;
@@ -80,7 +80,7 @@ module exp1(a, b, c);
 	assign c[6]= ~ a;
 
 endmodule
-
+```
  Developed by: Preethi.K
  RegisterNumber: 212224240118 
  
