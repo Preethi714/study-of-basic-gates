@@ -1,5 +1,8 @@
 ### study-of-basic-gates
-
+```
+ Developed by: Preethi.K
+ RegisterNumber: 212224240118
+```
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -81,8 +84,7 @@ module exp1(a, b, c);
 
 endmodule
 ```
- Developed by: Preethi.K
- RegisterNumber: 212224240118 
+ 
  
 **Logic symbol & Truthtable**
 ![Screenshot 2025-04-23 155551](https://github.com/user-attachments/assets/399b219c-5df0-48f3-b9c0-f2fc06bebbfd)
